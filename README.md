@@ -6,5 +6,5 @@ Um projeto simples que consiste em extrair todas as imagens presentes em um arqu
 ## Como usar?
 #
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k4txzOyJ2crHvdzA2XP" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.dailymotion.com/video/k4txzOyJ2crHvdzA2XP" frameborder="0" allowfullscreen></iframe>
 

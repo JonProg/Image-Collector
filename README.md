@@ -6,7 +6,7 @@ Fala players tranquilos? Hoje fiz esse projeto simples que consiste em extrair t
 
 
 ## Como usar?
-#
+
 [|| CLIQUE AQUI ||](https://www.dailymotion.com/video/k4txzOyJ2crHvdzA2XP)
 
 
